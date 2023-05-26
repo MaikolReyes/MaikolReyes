@@ -15,17 +15,6 @@ Estoy constantemente aprendiendo y manteniéndome actualizado con las últimas t
 
 📚 Si buscas a alguien apasionado por el desarrollo frontend, orientado a resultados y con habilidades sólidas en programación,
 estoy listo para contribuir y llevar tus ideas al siguiente nivel. 🤗
-
-📲Redes:
-
-📌Linkedin: https://www.linkedin.com/in/maikol-reyes/
-
-📌Twitter: https://twitter.com/MaikolJReyes
-
-📌Instagram: https://www.instagram.com/maiklreyes/
-
-📌Website Personal:
-
 <!--
 **MaikolReyes/MaikolReyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
