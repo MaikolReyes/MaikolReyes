@@ -19,8 +19,11 @@ estoy listo para contribuir y llevar tus ideas al siguiente nivel. 🤗
 📲Redes:
 
 📌Linkedin: https://www.linkedin.com/in/maikol-reyes/
+
 📌Twitter: https://twitter.com/MaikolJReyes
+
 📌Instagram: https://www.instagram.com/maiklreyes/
+
 📌Website Personal:
 
 <!--
