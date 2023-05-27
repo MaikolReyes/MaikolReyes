@@ -4,7 +4,7 @@
 Mi objetivo es combinar mi conocimiento técnico con mi creatividad para construir interfaces intuitivas y altamente funcionales.
 
 💻 Con experiencia en HTML, CSS y JavaScript, me especializo en el desarrollo de sitios web y aplicaciones web interactivas.
-me gusta trabajar con frameworks y bibliotecas modernas como ReactJS ⚛️ y AngularJS 🔺 para crear aplicaciones robustas y escalables.
+me gusta trabajar con frameworks y bibliotecas modernas como ReactJS ⚛️ para crear aplicaciones robustas y escalables.
 
 🤝 Además de mi experiencia técnica, valoro la colaboración y el trabajo en equipo. 
 Me encantaria ser parte de un ambiente de desarrollo ágil, donde puedo compartir ideas, aprender de otros y superar desafíos en equipo.
