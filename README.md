@@ -16,7 +16,5 @@ Estoy constantemente aprendiendo y manteniéndome actualizado con las últimas t
 📚 Si buscas a alguien especializado en desarrollo full stack, orientado a resultados y con habilidades sólidas en programación,
 estoy listo para contribuir y llevar tus ideas al siguiente nivel. 🤗
 
-## Website Personal
+## 🌐 Website Personal
 https://maikol.netlify.app/
-
-![maikol netlify app_ (1)](https://github.com/user-attachments/assets/9d477048-dbaf-46ca-bf49-647297c66d06)
