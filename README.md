@@ -13,8 +13,9 @@ Me encantaria ser parte de un ambiente de desarrollo ágil, donde puedo comparti
 la optimización del rendimiento ⚡️ y la usabilidad 🎨.
 Estoy constantemente aprendiendo y manteniéndome actualizado con las últimas tendencias y tecnologías tanto frontend como backend para ofrecer soluciones innovadoras.
 
-## 📚 Si buscas a alguien especializado en desarrollo full stack, orientado a resultados y con habilidades sólidas en programación,
+📚 Si buscas a alguien especializado en desarrollo full stack, orientado a resultados y con habilidades sólidas en programación,
 estoy listo para contribuir y llevar tus ideas al siguiente nivel. 🤗
 
 ## Website Personal
 https://maikol.netlify.app/
+![Uploading image.png…]()
