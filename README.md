@@ -37,10 +37,9 @@ En cada proyecto que desarrollo priorizo:
 
 Aquí comparto proyectos tanto de desarrollo frontend como de análisis de datos, donde aplico herramientas modernas y enfoques basados en buenas prácticas. Vas a encontrar dashboards, visualizaciones, aplicaciones web y más.
 
-https://github.com/MaikolReyes/Analisis-Bi-Electromas
 ---
 
-📫 **¿Buscás a alguien con perfil full stack, orientado a resultados y con mirada analítica?**  
+📫 **¿Buscás a alguien con perfil de desarrollador y analista de datos, orientado a resultados y con mirada analítica?**  
 Estoy listo para sumar valor a tu equipo o proyecto. ¡Conectemos y llevemos tus ideas al siguiente nivel!
 
 ## 🌐 Website Personal
