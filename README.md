@@ -4,6 +4,11 @@
 
 🎯 Mi objetivo es combinar habilidades técnicas con creatividad y pensamiento analítico para desarrollar aplicaciones web intuitivas y visualizaciones de datos que generen impacto real en la toma de decisiones.
 
+## 🌐 Website Personal
+📫 **¿Buscás a alguien con perfil de desarrollador y analista de datos, orientado a resultados y con mirada analítica?**  
+Estoy listo para sumar valor a tu equipo o proyecto. ¡Contactame y llevemos tus ideas al siguiente nivel!
+- https://maikol.netlify.app/
+
 ## 💻 Desarrollo Web
 
 Me especializo en el diseño y desarrollo de interfaces modernas utilizando:
@@ -32,15 +37,3 @@ En cada proyecto que desarrollo priorizo:
 - ⚡ La eficiencia y rendimiento
 - 🎨 El diseño centrado en el usuario
 - 📈 La utilidad del análisis
-
-## 📂 ¿Qué vas a encontrar en mi GitHub?
-
-Aquí comparto proyectos tanto de desarrollo frontend como de análisis de datos, donde aplico herramientas modernas y enfoques basados en buenas prácticas. Vas a encontrar dashboards, visualizaciones, aplicaciones web y más.
-
----
-
-## 🌐 Website Personal
-https://maikol.netlify.app/
-
-📫 **¿Buscás a alguien con perfil de desarrollador y analista de datos, orientado a resultados y con mirada analítica?**  
-Estoy listo para sumar valor a tu equipo o proyecto. ¡Contactame y llevemos tus ideas al siguiente nivel!
