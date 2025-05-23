@@ -4,9 +4,7 @@
 
 🎯 Mi objetivo es combinar habilidades técnicas con creatividad y pensamiento analítico para desarrollar aplicaciones web intuitivas y visualizaciones de datos que generen impacto real en la toma de decisiones.
 
-## 🌐 Website Personal
-📫 **¿Buscás a alguien con perfil de desarrollador y analista de datos, orientado a resultados y con mirada analítica?**  
-Estoy listo para sumar valor a tu equipo o proyecto. ¡Contactame y llevemos tus ideas al siguiente nivel!
+🌐 Website Personal
 - https://maikol.netlify.app/
 
 ## 💻 Desarrollo Web
