@@ -39,8 +39,8 @@ Aquí comparto proyectos tanto de desarrollo frontend como de análisis de datos
 
 ---
 
-📫 **¿Buscás a alguien con perfil de desarrollador y analista de datos, orientado a resultados y con mirada analítica?**  
-Estoy listo para sumar valor a tu equipo o proyecto. ¡Conectemos y llevemos tus ideas al siguiente nivel!
-
 ## 🌐 Website Personal
 https://maikol.netlify.app/
+
+📫 **¿Buscás a alguien con perfil de desarrollador y analista de datos, orientado a resultados y con mirada analítica?**  
+Estoy listo para sumar valor a tu equipo o proyecto. ¡Contactame y llevemos tus ideas al siguiente nivel!
