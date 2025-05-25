@@ -1,8 +1,8 @@
 ## 👋 ¡Hola! Bienvenido/a a mi perfil de GitHub
 
-🚀 Soy un apasionado del desarrollo **frontend** y del **análisis de datos**, comprometido con la creación de soluciones digitales eficientes, atractivas e impulsadas por datos.
+🚀 Soy un apasionado del desarrollo **frontend** y del **análisis de datos**, comprometido con la creación de soluciones eficientes, atractivas e impulsadas por datos.
 
-🎯 Mi objetivo es combinar habilidades técnicas con creatividad y pensamiento analítico para desarrollar aplicaciones web intuitivas y visualizaciones de datos que generen impacto real en la toma de decisiones.
+🎯 Mi objetivo es combinar mis habilidades técnicas y pensamiento analítico para desarrollar aplicaciones web intuitivas o visualizaciones de datos que generen impacto real en la toma de decisiones.
 
 🌐 Website Personal
 - https://maikol.netlify.app/
