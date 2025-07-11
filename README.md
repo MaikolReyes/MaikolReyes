@@ -7,7 +7,7 @@
 🌐 Website Personal
 - https://maikol.netlify.app/
 
-## 💻 Desarrollo Web
+## 💻 Programacion Frontend
 
 Me especializo en el diseño y desarrollo de interfaces modernas utilizando:
 
